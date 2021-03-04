@@ -1,4 +1,4 @@
-### Hi there 👋 I am your friendly indie creator.
+### Hi there 👋 I am your friendly neighborhood.
 
 <!--
 **ariestiyansyah/ariestiyansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
