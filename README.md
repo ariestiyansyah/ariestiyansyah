@@ -1,4 +1,6 @@
-### Hi there 👋 I am your friendly neighborhood.
+### Hi there 👋 I am your favorite Agent.
+
+- I'm currently working on my games and microcontroller
 
 <!--
 **ariestiyansyah/ariestiyansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
